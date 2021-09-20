@@ -2,7 +2,7 @@
 Remove copyrighted books from original book list of [Aozora Bunko](https://www.aozora.gr.jp).
 
 ## Getting started
-### Requirement
+### Requirements
 * Python 3.x
 * requests
 * beautifulsoup4
