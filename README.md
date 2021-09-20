@@ -1,5 +1,5 @@
 # modify-aozora-csv
-Remove copyrighted books from original book list of [Aozora Bunko](https://www.aozora.gr.jp).
+Remove copyrighted books from the original book list of [Aozora Bunko](https://www.aozora.gr.jp).
 
 ## Getting started
 ### Requirements
