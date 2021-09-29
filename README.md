@@ -11,7 +11,7 @@ Remove copyrighted books from the original book list of [Aozora Bunko](https://w
 python aozora.py
 ```
 ### File configuration
-* `aozora.py`: source code
+* `aozora.py`: source code to remove copyrighted books from the original book list
 * `list_person_all_extended_utf8.csv`: original book list
 * `index.csv`: modified book list
 
