@@ -12,8 +12,8 @@ python aozora.py
 ```
 ### File configuration
 * `aozora.py`: source code
-* `list_person_all_extended_utf8.csv`: input dada
-* `index.csv`: output dada
+* `list_person_all_extended_utf8.csv`: original book list
+* `index.csv`: modified book list
 
 ## License
 * `aozora.py`: [MIT License](https://github.com/kuga-github/modify-aozora-csv/blob/main/LICENSE)
